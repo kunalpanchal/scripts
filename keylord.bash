@@ -5,5 +5,5 @@
 
 sudo date 0110100018
 open -a Keylord
-sudo sleep 10
-ntpdate -u time.apple.com
+sleep 10
+sudo ntpdate -u time.apple.com
